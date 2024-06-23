@@ -334,7 +334,22 @@ td
 	border-left:.5pt solid windowtext;}
 .xl104
 	{mso-style-parent:style54;
-	color:red;
+	text-decoration:underline;
+	text-underline-style:single;
+	border:.5pt solid windowtext;}
+.xl105
+	{mso-style-parent:style0;
+	color:windowtext;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;}
+.xl106
+	{mso-style-parent:style0;
+	color:windowtext;}
+.xl107
+	{mso-style-parent:style54;
+	color:windowtext;
 	text-decoration:underline;
 	text-underline-style:single;
 	border:.5pt solid windowtext;}
