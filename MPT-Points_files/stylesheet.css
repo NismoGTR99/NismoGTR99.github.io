@@ -25,9 +25,7 @@ br
 	mso-style-id:0;}
 td
 	{mso-style-parent:style0;
-	padding-top:1px;
-	padding-right:1px;
-	padding-left:1px;
+	padding:0px;
 	mso-ignore:padding;
 	color:black;
 	font-size:11.0pt;
@@ -54,76 +52,61 @@ td
 	text-align:center;}
 .xl67
 	{mso-style-parent:style0;
-	font-weight:700;}
+	font-weight:700;
+	text-align:center;
+	border:.5pt solid windowtext;
+	background:#83CCEB;
+	mso-pattern:black none;}
 .xl68
 	{mso-style-parent:style0;
-	font-weight:700;
 	border:.5pt solid windowtext;
-	background:#C0E6F5;
+	background:#DAE9F8;
 	mso-pattern:black none;}
 .xl69
 	{mso-style-parent:style0;
-	font-weight:700;
+	text-align:center;
 	border:.5pt solid windowtext;
-	background:#83CCEB;
+	background:#C0E6F5;
 	mso-pattern:black none;}
 .xl70
 	{mso-style-parent:style0;
 	font-weight:700;
 	text-align:center;
 	border:.5pt solid windowtext;
-	background:#83CCEB;
+	background:#C0E6F5;
 	mso-pattern:black none;}
 .xl71
 	{mso-style-parent:style0;
 	border:.5pt solid windowtext;
-	background:#DAE9F8;
+	background:#C0E6F5;
 	mso-pattern:black none;}
 .xl72
 	{mso-style-parent:style0;
 	text-align:center;
 	border:.5pt solid windowtext;
-	background:#C0E6F5;
+	background:#DAE9F8;
 	mso-pattern:black none;}
 .xl73
 	{mso-style-parent:style0;
 	font-weight:700;
 	text-align:center;
 	border:.5pt solid windowtext;
-	background:#C0E6F5;
+	background:#DAE9F8;
 	mso-pattern:black none;}
 .xl74
 	{mso-style-parent:style0;
+	font-weight:700;
 	border:.5pt solid windowtext;
-	background:#C0E6F5;
+	background:#DAE9F8;
 	mso-pattern:black none;}
 .xl75
-	{mso-style-parent:style0;
-	text-align:center;
-	border:.5pt solid windowtext;
-	background:#DAE9F8;
-	mso-pattern:black none;}
-.xl76
-	{mso-style-parent:style0;
-	font-weight:700;
-	text-align:center;
-	border:.5pt solid windowtext;
-	background:#DAE9F8;
-	mso-pattern:black none;}
-.xl77
-	{mso-style-parent:style0;
-	font-weight:700;
-	border:.5pt solid windowtext;
-	background:#DAE9F8;
-	mso-pattern:black none;}
-.xl78
 	{mso-style-parent:style0;
 	font-weight:700;
 	text-align:center;
 	border:.5pt solid windowtext;
 	background:#FFC000;
 	mso-pattern:black none;}
-.xl79
+.xl76
 	{mso-style-parent:style0;
 	font-weight:700;
 	border:.5pt solid windowtext;
