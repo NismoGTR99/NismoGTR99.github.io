@@ -103,52 +103,90 @@ td
 	{mso-style-parent:style0;
 	font-weight:700;
 	text-align:center;
-	border:.5pt solid windowtext;}
-.xl76
-	{mso-style-parent:style0;
-	font-weight:700;
-	text-align:center;
 	background:#83CCEB;
 	mso-pattern:black none;}
-.xl77
+.xl76
 	{mso-style-parent:style0;
 	font-weight:700;
 	text-align:center;
 	border:.5pt solid windowtext;
 	background:#94DCF8;
 	mso-pattern:black none;}
-.xl78
-	{mso-style-parent:style0;
-	text-align:center;
-	border:.5pt solid windowtext;}
-.xl79
+.xl77
 	{mso-style-parent:style0;
 	font-weight:700;
 	text-align:center;
 	border:.5pt solid windowtext;
 	background:#DAF2D0;
 	mso-pattern:black none;}
-.xl80
+.xl78
 	{mso-style-parent:style0;
 	text-align:center;
 	border:.5pt solid windowtext;
 	background:#DAF2D0;
 	mso-pattern:black none;}
-.xl81
+.xl79
 	{mso-style-parent:style0;
 	text-align:center;
 	border:.5pt solid windowtext;
 	background:#FBE2D5;
 	mso-pattern:black none;}
-.xl82
+.xl80
 	{mso-style-parent:style0;
 	font-weight:700;
 	border:.5pt solid windowtext;
 	background:#B5E6A2;
 	mso-pattern:black none;}
-.xl83
+.xl81
 	{mso-style-parent:style0;
 	font-weight:700;
 	border:.5pt solid windowtext;
+	background:#DAE9F8;
+	mso-pattern:black none;}
+.xl82
+	{mso-style-parent:style0;
+	font-weight:700;
+	text-align:center;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;
+	background:#94DCF8;
+	mso-pattern:black none;}
+.xl83
+	{mso-style-parent:style0;
+	font-weight:700;
+	text-align:center;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;
+	background:#C0E6F5;
+	mso-pattern:black none;}
+.xl84
+	{mso-style-parent:style0;
+	text-align:center;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;
+	background:#DAE9F8;
+	mso-pattern:black none;}
+.xl85
+	{mso-style-parent:style0;
+	font-weight:700;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	background:#FFC000;
+	mso-pattern:black none;}
+.xl86
+	{mso-style-parent:style0;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;
 	background:#DAE9F8;
 	mso-pattern:black none;}
