@@ -103,18 +103,18 @@ td
 	{mso-style-parent:style0;
 	font-weight:700;
 	text-align:center;
-	background:#83CCEB;
+	border:.5pt solid windowtext;
+	background:#94DCF8;
 	mso-pattern:black none;}
 .xl76
 	{mso-style-parent:style0;
 	font-weight:700;
 	text-align:center;
 	border:.5pt solid windowtext;
-	background:#94DCF8;
+	background:#DAF2D0;
 	mso-pattern:black none;}
 .xl77
 	{mso-style-parent:style0;
-	font-weight:700;
 	text-align:center;
 	border:.5pt solid windowtext;
 	background:#DAF2D0;
@@ -123,21 +123,15 @@ td
 	{mso-style-parent:style0;
 	text-align:center;
 	border:.5pt solid windowtext;
-	background:#DAF2D0;
-	mso-pattern:black none;}
-.xl79
-	{mso-style-parent:style0;
-	text-align:center;
-	border:.5pt solid windowtext;
 	background:#FBE2D5;
 	mso-pattern:black none;}
-.xl80
+.xl79
 	{mso-style-parent:style0;
 	font-weight:700;
 	border:.5pt solid windowtext;
 	background:#B5E6A2;
 	mso-pattern:black none;}
-.xl81
+.xl80
 	{mso-style-parent:style0;
 	font-weight:700;
 	border:.5pt solid windowtext;
