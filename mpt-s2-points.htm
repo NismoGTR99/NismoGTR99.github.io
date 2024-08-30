@@ -15,18 +15,28 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <link id="shLink" href="mpt-s2-points_files/sheet002.htm">
 <link id="shLink" href="mpt-s2-points_files/sheet003.htm">
 <link id="shLink" href="mpt-s2-points_files/sheet004.htm">
+<link id="shLink" href="mpt-s2-points_files/sheet005.htm">
+<link id="shLink" href="mpt-s2-points_files/sheet006.htm">
+<link id="shLink" href="mpt-s2-points_files/sheet007.htm">
+<link id="shLink" href="mpt-s2-points_files/sheet008.htm">
+<link id="shLink" href="mpt-s2-points_files/sheet009.htm">
 
 <link id="shLink">
 
 <script language="JavaScript">
 <!--
- var c_lTabs=4;
+ var c_lTabs=9;
 
  var c_rgszSh=new Array(c_lTabs);
  c_rgszSh[0] = "Matches";
  c_rgszSh[1] = "GourmetGladiators";
  c_rgszSh[2] = "DrunkenDevils";
  c_rgszSh[3] = "MavericksUnited";
+ c_rgszSh[4] = "M-1-MUvsDD";
+ c_rgszSh[5] = "M-2-GGvsDD";
+ c_rgszSh[6] = "M-3-MUvsGG";
+ c_rgszSh[7] = "Final";
+ c_rgszSh[8] = "Template";
 
 
 
@@ -56,7 +66,7 @@ function fnGetIEVer()
 function fnBuildFrameset()
 {
  var szHTML="<frameset rows=\"*,18\" border=0 width=0 frameborder=no framespacing=0>"+
-  "<frame src=\""+document.all.item("shLink")[1].href+"\" name=\"frSheet\" noresize>"+
+  "<frame src=\""+document.all.item("shLink")[0].href+"\" name=\"frSheet\" noresize>"+
   "<frameset cols=\"54,*\" border=0 width=0 frameborder=no framespacing=0>"+
   "<frame src=\"\" name=\"frScroll\" marginwidth=0 marginheight=0 scrolling=no>"+
   "<frame src=\"\" name=\"frTabs\" marginwidth=0 marginheight=0 scrolling=no>"+
@@ -319,14 +329,33 @@ function fnSetActiveSheet(iSh)
     <x:Name>MavericksUnited</x:Name>
     <x:WorksheetSource HRef="mpt-s2-points_files/sheet004.htm"/>
    </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>M-1-MUvsDD</x:Name>
+    <x:WorksheetSource HRef="mpt-s2-points_files/sheet005.htm"/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>M-2-GGvsDD</x:Name>
+    <x:WorksheetSource HRef="mpt-s2-points_files/sheet006.htm"/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>M-3-MUvsGG</x:Name>
+    <x:WorksheetSource HRef="mpt-s2-points_files/sheet007.htm"/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>Final</x:Name>
+    <x:WorksheetSource HRef="mpt-s2-points_files/sheet008.htm"/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>Template</x:Name>
+    <x:WorksheetSource HRef="mpt-s2-points_files/sheet009.htm"/>
+   </x:ExcelWorksheet>
   </x:ExcelWorksheets>
   <x:Stylesheet HRef="mpt-s2-points_files/stylesheet.css"/>
   <x:WindowHeight>15840</x:WindowHeight>
   <x:WindowWidth>29040</x:WindowWidth>
   <x:WindowTopX>28680</x:WindowTopX>
   <x:WindowTopY>32767</x:WindowTopY>
-  <x:TabRatio>365</x:TabRatio>
-  <x:ActiveSheet>1</x:ActiveSheet>
+  <x:TabRatio>618</x:TabRatio>
   <x:ProtectStructure>False</x:ProtectStructure>
   <x:ProtectWindows>False</x:ProtectWindows>
  </x:ExcelWorkbook>
@@ -334,7 +363,7 @@ function fnSetActiveSheet(iSh)
 </head>
 
 <frameset rows="*,39" border=0 width=0 frameborder=no framespacing=0>
- <frame src="mpt-s2-points_files/sheet002.htm" name="frSheet">
+ <frame src="mpt-s2-points_files/sheet001.htm" name="frSheet">
  <frame src="mpt-s2-points_files/tabstrip.htm" name="frTabs" marginwidth=0 marginheight=0>
  <noframes>
   <body>
