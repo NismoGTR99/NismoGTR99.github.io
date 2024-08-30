@@ -56,7 +56,7 @@ function fnGetIEVer()
 function fnBuildFrameset()
 {
  var szHTML="<frameset rows=\"*,18\" border=0 width=0 frameborder=no framespacing=0>"+
-  "<frame src=\""+document.all.item("shLink")[0].href+"\" name=\"frSheet\" noresize>"+
+  "<frame src=\""+document.all.item("shLink")[1].href+"\" name=\"frSheet\" noresize>"+
   "<frameset cols=\"54,*\" border=0 width=0 frameborder=no framespacing=0>"+
   "<frame src=\"\" name=\"frScroll\" marginwidth=0 marginheight=0 scrolling=no>"+
   "<frame src=\"\" name=\"frTabs\" marginwidth=0 marginheight=0 scrolling=no>"+
@@ -323,9 +323,10 @@ function fnSetActiveSheet(iSh)
   <x:Stylesheet HRef="mpt-s2-points_files/stylesheet.css"/>
   <x:WindowHeight>15840</x:WindowHeight>
   <x:WindowWidth>29040</x:WindowWidth>
-  <x:WindowTopX>32767</x:WindowTopX>
+  <x:WindowTopX>28680</x:WindowTopX>
   <x:WindowTopY>32767</x:WindowTopY>
   <x:TabRatio>365</x:TabRatio>
+  <x:ActiveSheet>1</x:ActiveSheet>
   <x:ProtectStructure>False</x:ProtectStructure>
   <x:ProtectWindows>False</x:ProtectWindows>
  </x:ExcelWorkbook>
@@ -333,7 +334,7 @@ function fnSetActiveSheet(iSh)
 </head>
 
 <frameset rows="*,39" border=0 width=0 frameborder=no framespacing=0>
- <frame src="mpt-s2-points_files/sheet001.htm" name="frSheet">
+ <frame src="mpt-s2-points_files/sheet002.htm" name="frSheet">
  <frame src="mpt-s2-points_files/tabstrip.htm" name="frTabs" marginwidth=0 marginheight=0>
  <noframes>
   <body>
